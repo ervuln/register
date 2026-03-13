@@ -1,0 +1,11 @@
+{
+    "description": "My personal website",
+    "repo": "https://github.com/ervuln/MY-WEBSITE",
+    "owner": {
+        "username": "ervuln",
+        "email": "ervuln.official@gmail.com"
+    },
+    "record": {
+        "CNAME": "website-7xc.pages.dev"
+    }
+}
